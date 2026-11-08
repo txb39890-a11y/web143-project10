@@ -20,7 +20,7 @@ This was built to work as a website that can calculate personal progressive tax 
 ## C. How to run it
 1. **Clone the repository**
 ```bash
-git clone https://github.com/txb39890-a11y/web143-project10.git
+git clone https://github.com/txb39890-a11y/web143-project10.git```
 cd web143-project10
 
 ## D. Screenshots
