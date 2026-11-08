@@ -17,8 +17,18 @@ This was built to work as a website that can calculate personal progressive tax 
 * **Flask** 
 * **HTML5** and **CSS3**
 
-## How to run it
+## C. How to run it
 1. **Clone the repository**
 ```bash
 git clone https://github.com/txb39890-a11y/web143-project10.git
 cd web143-project10
+
+## D. Screenshots
+### Home
+![Calculator Form](screenshots/home.png)
+
+### Results
+![Calculator Form](screenshots/results.png)
+
+### Invalid
+![Calculator Form](screenshots/invalid.png)
