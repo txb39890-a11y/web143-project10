@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}Tax Results{% endblock %}
+
+{% block content %}
+    <h1>Summary</h1>
+
+    <div class="result-card">
+        <p><strong>Taxable Income:</strong> {{ income }}</p>
+        <p><strong>Total Progressive Tax:</strong> <span class="tax-amount">{{ tax }}</span></p>
+    </div>
+{% endblock %}
